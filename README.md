@@ -19,16 +19,16 @@ AstrBot plugin developer | Maimai DX player | open-source contributor
 
 ## Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Blueteemo&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueteemo&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueteemo&repo=astrbot_plugin_awmc_maimaidx_status&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueteemo&repo=astrbot_plugin_gf2_daily&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_gf2_daily)
+[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_awmc_maimaidx_status&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status)
+[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_gf2_daily&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_gf2_daily)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueteemo&repo=Flashpoint-Uninstaller&theme=dark&hide_border=true)](https://github.com/Blueteemo/Flashpoint-Uninstaller)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blueteemo&repo=astrbot_plugin_deer_check&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_deer_check)
+[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=Flashpoint-Uninstaller&theme=dark&hide_border=true)](https://github.com/Blueteemo/Flashpoint-Uninstaller)
+[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_deer_check&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_deer_check)
 
 ## Activity
 
