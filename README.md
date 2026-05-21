@@ -42,6 +42,11 @@
   <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true" alt="Top Langs" />
 </p>
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Activity
 
 <p align="center">
