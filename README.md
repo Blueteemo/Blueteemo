@@ -17,7 +17,7 @@
   </a>
 </p>
 
-📫 **Blog:** [blog.207723.xyz](https://blog.207723.xyz)
+[![Blog](https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=githubpages&logoColor=white)](https://blog.207723.xyz)
 
 ## Trophies
 
@@ -25,8 +25,8 @@
 
 ## Stats
 
-[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity
 
