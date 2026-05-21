@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://blog.207723.xyz">
-    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=globe&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
   </a>
 </p>
 
