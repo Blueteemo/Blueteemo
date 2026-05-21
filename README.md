@@ -1,3 +1,7 @@
+# Hi there, I'm 千岚之夏
+
+> *Overthesky 遠くを見つめてる*
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen" alt="visitors" />
 </p>
