@@ -21,7 +21,7 @@
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Review)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Stats
 
