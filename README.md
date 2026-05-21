@@ -1,13 +1,13 @@
-# Hi there, I'm 千岚之夏
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen" alt="visitors" />
+</p>
 
-> *Overthesky 遠くを見つめてる*
-
-![](https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AstrBot](https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github)](https://github.com/AstrBotDevs/AstrBot)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github" />
+</p>
 
 ---
 
@@ -17,15 +17,29 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://blog.207723.xyz">
+    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Reviews" alt="trophy" />
+  </a>
+</p>
 
 ## Stats
 
-[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="Stats" />
+  <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true" alt="Top Langs" />
+</p>
 
 ## Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true" alt="Activity" />
+</p>
