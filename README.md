@@ -11,24 +11,22 @@
 
 ---
 
-AstrBot plugin developer | Maimai DX player | open-source contributor
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6B21A8&center=true&vCenter=true&width=600&lines=AstrBot+Plugin+Developer;Maimai+DX+Player;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+📫 **Blog:** [blog.207723.xyz](https://blog.207723.xyz)
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Review)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Stats
 
-[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Featured
-
-[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_awmc_maimaidx_status&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_awmc_maimaidx_status)
-[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_gf2_daily&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_gf2_daily)
-
-[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=Flashpoint-Uninstaller&theme=dark&hide_border=true)](https://github.com/Blueteemo/Flashpoint-Uninstaller)
-[![Readme Card](https://stats.programcx.cn/api/pin/?username=Blueteemo&repo=astrbot_plugin_deer_check&theme=dark&hide_border=true)](https://github.com/Blueteemo/astrbot_plugin_deer_check)
+[![Stats](https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity
 
