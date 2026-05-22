@@ -1,4 +1,5 @@
 name: Latest Blog Posts
+
 on:
   schedule:
     # Runs every day at 00:00 UTC
@@ -18,3 +19,4 @@ jobs:
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
           template: "$newline- [$title]($url) $newline"
+          item_exec: "item.link = item.link.replace('http://localhost:8090', 'https://blog.207723.xyz');"
