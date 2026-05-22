@@ -19,4 +19,4 @@ jobs:
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
           template: "$newline- [$title]($url) $newline"
-          item_exec: "item.link = item.link.replace('http://localhost:8090', 'https://blog.207723.xyz');"
+          item_exec: "post.url = post.url.replace('http://localhost:8090', 'https://blog.207723.xyz');"
