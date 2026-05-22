@@ -45,15 +45,15 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [让 AI 帮你发博客：Halo 2.x REST API 自动化发帖实战](http://localhost:8090/archives/halo-2-rest-api-ai-blog-automation) 
+- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
 
-- [我写了个单文件工具，30 秒把 Flashpoint 连根拔起](http://localhost:8090/archives/wo-xie-liao-ge-dan-wen-jian-gong-ju-30-miao-ba-flashpoint-lian-gen-ba-qi) 
+- [让 AI 帮你发博客：Halo 2.x REST API 自动化发帖实战](https://blog.207723.xyz/archives/halo-2-rest-api-ai-blog-automation) 
 
-- [经典Flash小游戏——黄金矿工](http://localhost:8090/archives/jing-dian-flashxiao-you-xi----huang-jin-kuang-gong) 
+- [我写了个单文件工具，30 秒把 Flashpoint 连根拔起](https://blog.207723.xyz/archives/wo-xie-liao-ge-dan-wen-jian-gong-ju-30-miao-ba-flashpoint-lian-gen-ba-qi) 
 
-- [经典Flash小游戏——战争进化](http://localhost:8090/archives/jing-dian-flashxiao-you-xi----zhan-zheng-jin-hua) 
+- [经典Flash小游戏——黄金矿工](https://blog.207723.xyz/archives/jing-dian-flashxiao-you-xi----huang-jin-kuang-gong) 
 
-- [动画电影《世界计划：无法歌唱的初音未来》BD中字](http://localhost:8090/archives/dong-hua-dian-ying-shi-jie-ji-hua-wu-fa-ge-chang-de-chu-yin-wei-lai-bdzhong-zi) 
+- [经典Flash小游戏——战争进化](https://blog.207723.xyz/archives/jing-dian-flashxiao-you-xi----zhan-zheng-jin-hua) 
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity
