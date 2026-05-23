@@ -45,15 +45,15 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从用户到Contributor：我与AstrBot的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi) 
+
+- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/wei-ming-ming-wen-zhang) 
+
+- [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
+
 - [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
 
 - [让 AI 帮你发博客：Halo 2.x REST API 自动化发帖实战](https://blog.207723.xyz/archives/halo-2-rest-api-ai-blog-automation) 
-
-- [我写了个单文件工具，30 秒把 Flashpoint 连根拔起](https://blog.207723.xyz/archives/wo-xie-liao-ge-dan-wen-jian-gong-ju-30-miao-ba-flashpoint-lian-gen-ba-qi) 
-
-- [经典Flash小游戏——黄金矿工](https://blog.207723.xyz/archives/jing-dian-flashxiao-you-xi----huang-jin-kuang-gong) 
-
-- [经典Flash小游戏——战争进化](https://blog.207723.xyz/archives/jing-dian-flashxiao-you-xi----zhan-zheng-jin-hua) 
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity
