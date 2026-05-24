@@ -37,10 +37,13 @@
 
 ## Stats
 
-<p align="center">
+<div align="center">
   <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="Stats" />
+</div>
+
+<div align="center">
   <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true" alt="Top Langs" />
-</p>
+</div>
 
 ## Latest Blog Posts
 
