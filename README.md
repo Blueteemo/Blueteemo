@@ -52,7 +52,7 @@
 
 - [从用户到Contributor：我与AstrBot的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi) 
 
-- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/wei-ming-ming-wen-zhang) 
+- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li) 
 
 - [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
 
