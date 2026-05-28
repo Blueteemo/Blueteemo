@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=true" alt="Top Langs" />
+  <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=false" alt="Top Langs" />
 </div>
 
 ## Latest Blog Posts
