@@ -15,8 +15,6 @@
 
 ---
 
-📫 **Blog:** [blog.207723.xyz](https://blog.207723.xyz)
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6B21A8&center=true&vCenter=true&width=600&lines=AstrBot+Plugin+Developer;Maimai+DX+Player;Open+Source+Contributor" alt="Typing SVG" />
@@ -38,7 +36,6 @@
 </p>
 
 ## Stats
-
 <div align="center">
   <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="Stats" />
 </div>
@@ -48,7 +45,6 @@
 </div>
 
 ## Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
 
