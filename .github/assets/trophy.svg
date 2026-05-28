@@ -1,8 +1,8 @@
 
     <svg
-      width="660"
-      height="220"
-      viewBox="0 0 660 220"
+      width="770"
+      height="110"
+      viewBox="0 0 770 110"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -494,7 +494,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">Middle Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">74pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">75pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -502,7 +502,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 56.89px;
+        width: 57.78px;
       }
     }
     #Commits-rank-progress{
@@ -530,8 +530,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="0"
-          y="110"
+          x="660"
+          y="0"
           width="110"
           height="110"
           viewBox="0 0 110 110"
