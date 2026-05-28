@@ -2,8 +2,8 @@ name: Generate Profile Trophy
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 0:00 运行
-  workflow_dispatch:  # 支持手动触发
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,20 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate Trophy SVG
-        uses: soulteary/github-profile-trophy@v2.0.1
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          theme: onedark
-          no-frame: true
-          column: 6
-          exclude-title: 'Followers|Review'
-      
-      - name: Commit and push trophy
+          options: 'username=${{ github.repository_owner }}&theme=onedark&no-frame=true&column=6&title=-Followers,-Reviews'
+          path: .github/assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f trophy.svg
+          git add .github/assets/trophy.svg
           git diff --staged --quiet || git commit -m "ci: auto-update profile trophy $(date +'%Y-%m-%d')"
           git push

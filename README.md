@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="trophy.svg" alt="trophy" />
+    <img src=".github/assets/trophy.svg" alt="trophy" />
   </a>
 </p>
 
