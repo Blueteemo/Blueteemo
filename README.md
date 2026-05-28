@@ -15,6 +15,8 @@
 
 ---
 
+📫 **Blog:** [blog.207723.xyz](https://blog.207723.xyz)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6B21A8&center=true&vCenter=true&width=600&lines=AstrBot+Plugin+Developer;Maimai+DX+Player;Open+Source+Contributor" alt="Typing SVG" />
@@ -31,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Blueteemo&theme=onedark&no-frame=true&column=6&title=-Followers,-Reviews" alt="trophy" />
+    <img src="trophy.svg" alt="trophy" />
   </a>
 </p>
 
@@ -56,7 +58,7 @@
 
 - [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
 
-- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
+- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer-js-jiu-gou-liao) 
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity
