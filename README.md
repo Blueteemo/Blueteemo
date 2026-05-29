@@ -54,7 +54,7 @@
 
 - [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
 
-- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer-js-jiu-gou-liao) 
+- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity
