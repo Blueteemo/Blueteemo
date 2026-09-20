@@ -1,10 +1,21 @@
-# Hi there, I'm 千岚之夏
-
-> *Overthesky 遠くを見つめてる*
+<h1 align="center">Hi there, I'm 千岚之夏 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen" alt="visitors" />
+  <em>Overthesky 遠くを見つめてる</em>
 </p>
+
+<p align="center">
+  I contribute to <a href="https://github.com/AstrBotDevs/AstrBot">AstrBot</a> and build tools for AI agents, bot ecosystems, and rhythm games.<br />
+  With a background in music, I enjoy exploring where music, games, and technology intersect—and bringing ideas to life through AI-assisted development.
+</p>
+
+<p align="center">
+  <a href="https://blog.207723.xyz">
+    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
+## Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -13,19 +24,16 @@
   <img src="https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github" alt="AstrBot Contributor" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6B21A8&center=true&vCenter=true&width=600&lines=AstrBot+Plugin+Developer;Maimai+DX+Player;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
+## Stats
 
-<p align="center">
-  <a href="https://blog.207723.xyz">
-    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&v=20260920" alt="Stats" />
+</div>
+
+<div align="center">
+  <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=false" alt="Top Langs" />
+</div>
 
 ## Trophies
 
@@ -35,16 +43,8 @@
   </a>
 </p>
 
-## Stats
-<div align="center">
-  <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&v=20260920" alt="Stats" />
-</div>
-
-<div align="center">
-  <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=false" alt="Top Langs" />
-</div>
-
 ## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
 
@@ -61,4 +61,8 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true" alt="Activity" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen" alt="visitors" />
 </p>
