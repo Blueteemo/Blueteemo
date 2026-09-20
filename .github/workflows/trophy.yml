@@ -14,6 +14,34 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Validate trophy repository data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: |
+          query='query($username: String!) { user(login: $username) { repositories(first: 50, ownerAffiliations: OWNER, orderBy: {direction: DESC, field: STARGAZERS}) { totalCount nodes { languages(first: 3, orderBy: {direction: DESC, field: SIZE}) { nodes { name } } stargazers { totalCount } } } } }'
+          payload=$(jq -n --arg query "$query" --arg username "$GH_USERNAME" '{query: $query, variables: {username: $username}}')
+          response=$(curl --fail-with-body --silent --show-error \
+            -H "Authorization: bearer $GH_TOKEN" \
+            -H 'Content-Type: application/json' \
+            --data "$payload" \
+            https://api.github.com/graphql)
+
+          if jq -e '.errors and (.errors | length > 0)' >/dev/null <<<"$response"; then
+            echo "::error::GitHub GraphQL repository query failed: $(jq -c '.errors' <<<"$response")"
+            exit 1
+          fi
+
+          repository_count=$(jq '.data.user.repositories.totalCount // 0' <<<"$response")
+          star_count=$(jq '[.data.user.repositories.nodes[].stargazers.totalCount] | add // 0' <<<"$response")
+          language_count=$(jq '[.data.user.repositories.nodes[].languages.nodes[].name] | unique | length' <<<"$response")
+          echo "Trophy repository data: repositories=$repository_count stars=$star_count languages=$language_count"
+
+          if [ "$repository_count" -eq 0 ] || [ "$language_count" -eq 0 ]; then
+            echo "::error::Repository data is unexpectedly empty; refusing to overwrite trophy.svg"
+            exit 1
+          fi
+
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
