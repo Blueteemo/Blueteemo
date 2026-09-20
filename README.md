@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github" alt="AstrBot Contributor" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=6B21A8&center=true&vCenter=true&width=600&lines=AstrBot+Plugin+Developer;Maimai+DX+Player;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
@@ -60,5 +60,5 @@
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true" alt="Activity" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true" alt="Activity" />
 </p>
