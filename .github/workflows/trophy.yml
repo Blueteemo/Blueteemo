@@ -59,6 +59,53 @@ jobs:
   trophy:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v7
+
+      - name: Fetch and validate trophy card
+        env:
+          TROPHY_URL: >-
+            https://trophy.ryglcloud.net/?username=${{ github.repository_owner }}&theme=onedark&no-frame=true&column=7&title=-Followers,-Reviews
+        run: |
+          tmp_file=$(mktemp)
+          trap 'rm -f "$tmp_file"' EXIT
+
+          curl --fail --location --silent --show-error \
+            --retry 3 --retry-delay 2 \
+            "$TROPHY_URL" -o "$tmp_file"
+
+          grep -q '<svg' "$tmp_file"
+          grep -q '>Repositories<' "$tmp_file"
+          grep -q '>Stars<' "$tmp_file"
+          test "$(wc -c < "$tmp_file")" -gt 10000
+
+          if grep -Eiq '<script|<foreignObject|javascript:| on[a-z]+=' "$tmp_file"; then
+            echo "::error::Downloaded trophy SVG contains unsafe markup"
+            exit 1
+          fi
+
+          mv "$tmp_file" .github/assets/trophy.svg
+
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/trophy.svg
+          git diff --staged --quiet || git commit -m "ci: auto-update profile trophy $(date +'%Y-%m-%d')"
+          git push
+name: Generate Profile Trophy
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v4
 
       - name: Fetch and validate trophy card
