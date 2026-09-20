@@ -37,7 +37,7 @@
 
 ## Stats
 <div align="center">
-  <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="Stats" />
+  <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&v=20260920" alt="Stats" />
 </div>
 
 <div align="center">
