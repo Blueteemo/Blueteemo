@@ -2,6 +2,12 @@ name: Cleanup failed workflow runs
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Preview only; no deletion"
+        type: boolean
+        required: true
+        default: true
 
 permissions:
   actions: write
@@ -13,26 +19,45 @@ jobs:
       - uses: actions/github-script@v7
         with:
           script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const dryRun = context.payload.inputs?.dry_run !== "false";
             const workflows = ["blog-post-workflow.yml", "trophy.yml"];
-            let deleted = 0;
+            let total = 0;
+
             for (const workflow_id of workflows) {
+              const { data: workflow } = await github.rest.actions.getWorkflow({
+                owner, repo, workflow_id,
+              });
               const runs = await github.paginate(
                 github.rest.actions.listWorkflowRuns,
-                {
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  workflow_id,
-                  status: "failure",
-                  per_page: 100,
-                },
+                { owner, repo, workflow_id, per_page: 100 },
               );
-              for (const run of runs) {
-                await github.rest.actions.deleteWorkflowRun({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  run_id: run.id,
+              const failures = runs.filter(
+                run => run.workflow_id === workflow.id &&
+                  run.status === "completed" &&
+                  run.conclusion === "failure" &&
+                  run.repository?.full_name === context.repo.owner + "/" + context.repo.repo,
+              );
+              core.notice(workflow_id + ": " + runs.length + " total; " +
+                failures.length + " failures; dry_run=" + dryRun);
+              for (const run of failures) {
+                if (dryRun) continue;
+                const { data: current } = await github.rest.actions.getWorkflowRun({
+                  owner, repo, run_id: run.id,
                 });
-                deleted += 1;
+                if (current.id !== run.id ||
+                    current.workflow_id !== workflow.id ||
+                    current.status !== "completed" ||
+                    current.conclusion !== "failure" ||
+                    current.repository?.full_name !== owner + "/" + repo) {
+                  throw new Error("Run changed or mismatched; stopped at " + run.id);
+                }
+                await github.rest.actions.deleteWorkflowRun({
+                  owner, repo, run_id: run.id,
+                });
+                total++;
               }
             }
-            core.notice(`Deleted ${deleted} failed workflow run(s).`);
+            core.notice(dryRun ? "Preview complete; deleted 0." :
+              "Deleted " + total + " verified failed run(s).");
