@@ -23,37 +23,27 @@
 
 ## 🌱 Open Source
 
-**[AstrBot](https://github.com/AstrBotDevs/AstrBot)**
+**AstrBot**  
+Contributing to the AI assistant framework and its ecosystem. · [Contributions](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
 
-Contributing to the AI assistant framework and its ecosystem.
-
-[Contributions](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
-
-**[NgpCraft](https://github.com/Tixul/Ngpcraft_emulator)**
-
-Exploring netplay consistency and connection lifecycle issues. The maintainer adopted the synchronized-start idea I proposed in PR #26.
-
-[Upstream release notes](https://github.com/Tixul/Ngpcraft_emulator/releases/tag/v3.9.1)
+**NgpCraft**  
+Exploring netplay consistency and connection lifecycle issues. The maintainer adopted the synchronized-start idea I proposed in PR #26. · [Release notes](https://github.com/Tixul/Ngpcraft_emulator/releases/tag/v3.9.1)
 
 ## 🎮 Ports & Research
 
-**[CPyMO for NDS](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)**
+**CPyMO for NDS**  
+Bringing CPyMO to Nintendo DS / DS Lite, with a game conversion assistant, a public release, and real-hardware testing. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)
 
-Bringing CPyMO to Nintendo DS / DS Lite, with a game conversion assistant, a public release, and real-hardware testing.
-
-**[NGP / NGPC Research & Localization](https://github.com/Blueteemo/ngp-localization)**
-
-Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.*
+**NGP / NGPC Research & Localization**  
+Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
 
 ## 🎵 Rhythm Games
 
-**[maimai Knowledge Skill](https://github.com/Blueteemo/maimai-knowledge-skill)**
+**maimai Knowledge Skill**  
+Song and chart lookup tools for AI agents. · [Repository](https://github.com/Blueteemo/maimai-knowledge-skill)
 
-Song and chart lookup tools for AI agents.
-
-**[Arcaea Knowledge Skill](https://github.com/Blueteemo/arcaea-knowledge-skill)**
-
-Mechanics and story retrieval for AI agents.
+**Arcaea Knowledge Skill**  
+Mechanics and story retrieval for AI agents. · [Repository](https://github.com/Blueteemo/arcaea-knowledge-skill)
 
 ## 🎧 Beyond the Code
 
@@ -63,9 +53,9 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 
 ## ✍️ From My Blog
 
-[从用户到 Contributor：我与 AstrBot 的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
+从用户到 Contributor：我与 AstrBot 的故事 · [阅读](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
 
-[Suno AI 音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+Suno AI 音乐生成初探：以午前二時の夢为例 · [阅读](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
 
 ## 📊 A Little More
 
