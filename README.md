@@ -59,9 +59,10 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
   </a>
 </p>
 
-从用户到 Contributor：我与 AstrBot 的故事 · [阅读](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
-
-Suno AI 音乐生成初探：以午前二時の夢为例 · [阅读](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+<!-- BLOG-POST-LIST:START -->
+- [从用户到 Contributor：我与 AstrBot 的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
+- [Suno AI 音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 A Little More
 
