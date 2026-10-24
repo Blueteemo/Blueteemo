@@ -15,11 +15,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
-</p>
-
-<p align="center">
+  <br /><br />
   <a href="https://blog.207723.xyz">
-    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pic1.imgdb.cn/item/692359363203f7be0026c50c.png" />
+      <img src="https://pic1.imgdb.cn/item/69276aa83203f7be003487aa.png" alt="柚夏忆册 · Yuuka's Diary — Blog" title="柚夏忆册 · Yuuka's Diary" width="140" height="40" />
+    </picture>
   </a>
 </p>
 
