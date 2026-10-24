@@ -15,13 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
-  <br /><br />
-  <a href="https://blog.207723.xyz">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://pic1.imgdb.cn/item/692359363203f7be0026c50c.png" />
-      <img src="https://pic1.imgdb.cn/item/69276aa83203f7be003487aa.png" alt="柚夏忆册 · Yuuka's Diary — Blog" title="柚夏忆册 · Yuuka's Diary" width="140" height="40" />
-    </picture>
-  </a>
+
 </p>
 
 ## 🌱 Open Source
@@ -55,6 +49,15 @@ Music is where I started. Rhythm games, visual novels, and old handhelds keep gi
 Sometimes that means a game port, sometimes a Chinese patch—and sometimes recording a soundtrack so it can be enjoyed beyond the game.
 
 ## ✍️ From My Blog
+
+<p>
+  <a href="https://blog.207723.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://pic1.imgdb.cn/item/692359363203f7be0026c50c.png" />
+      <img src="https://pic1.imgdb.cn/item/69276aa83203f7be003487aa.png" alt="柚夏忆册 · Yuuka's Diary — Blog" title="柚夏忆册 · Yuuka's Diary" width="140" height="40" />
+    </picture>
+  </a>
+</p>
 
 从用户到 Contributor：我与 AstrBot 的故事 · [阅读](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
 
