@@ -1,71 +1,73 @@
-<p align="center">
-  <sub>OPEN SOURCE · MUSIC · RETRO GAMES</sub>
-</p>
-
-<h1 align="center">千岚之夏</h1>
+<h1 align="center">Hi there, I'm 千岚之夏 👋</h1>
 
 <p align="center">
   <em>Overthesky 遠くを見つめてる</em>
 </p>
 
 <p align="center">
-  With a background in music, I explore AI agents, rhythm games, and retro game development<br />
-  through open-source work and AI-assisted development.
+  With a background in music, I enjoy exploring where music, games, and technology meet—<br />
+  and bringing ideas to life through AI-assisted development.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-586778?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-586778?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Docker-586778?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <p align="center">
-  <a href="https://blog.207723.xyz">Blog ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Blueteemo">GitHub ↗</a>
+  <a href="https://blog.207723.xyz">
+    <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
+  </a>
 </p>
 
-## Open Source
+## 🌱 Open Source
 
-**[AstrBot ↗](https://github.com/AstrBotDevs/AstrBot)**
+**[AstrBot](https://github.com/AstrBotDevs/AstrBot)**
 
-Ongoing contributions to the AI assistant framework and its ecosystem.
+Contributing to the AI assistant framework and its ecosystem.
 
-[Contributions →](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
+[Contributions](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
 
-**[NgpCraft ↗](https://github.com/Tixul/Ngpcraft_emulator)**
+**[NgpCraft](https://github.com/Tixul/Ngpcraft_emulator)**
 
-Netplay consistency and connection lifecycle research. The maintainer adopted the synchronized-start idea proposed in my PR #26.
+Exploring netplay consistency and connection lifecycle issues. The maintainer adopted the synchronized-start idea I proposed in PR #26.
 
-[Upstream release notes →](https://github.com/Tixul/Ngpcraft_emulator/releases/tag/v3.9.1)
+[Upstream release notes](https://github.com/Tixul/Ngpcraft_emulator/releases/tag/v3.9.1)
 
-## Ports & Research
+## 🎮 Ports & Research
 
-**[CPyMO for NDS ↗](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)**
+**[CPyMO for NDS](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)**
 
-Nintendo DS / DS Lite port with a conversion assistant, a public release, and real-hardware testing.
+Bringing CPyMO to Nintendo DS / DS Lite, with a game conversion assistant, a public release, and real-hardware testing.
 
-**[NGP / NGPC Research & Localization ↗](https://github.com/Blueteemo/ngp-localization)**
+**[NGP / NGPC Research & Localization](https://github.com/Blueteemo/ngp-localization)**
 
-Practical research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.*
+Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.*
 
-## Rhythm Games
+## 🎵 Rhythm Games
 
-**[maimai Knowledge Skill ↗](https://github.com/Blueteemo/maimai-knowledge-skill)**
+**[maimai Knowledge Skill](https://github.com/Blueteemo/maimai-knowledge-skill)**
 
 Song and chart lookup tools for AI agents.
 
-**[Arcaea Knowledge Skill ↗](https://github.com/Blueteemo/arcaea-knowledge-skill)**
+**[Arcaea Knowledge Skill](https://github.com/Blueteemo/arcaea-knowledge-skill)**
 
 Mechanics and story retrieval for AI agents.
 
-## Writing
+## 🎧 Beyond the Code
 
-[从用户到 Contributor：我与 AstrBot 的故事 ↗](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
+Music is where I started. Rhythm games, visual novels, and old handhelds keep giving me new things to explore.
 
-[Suno AI 音乐生成初探：以午前二時の夢为例 ↗](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+Sometimes that means a game port, sometimes a Chinese patch—and sometimes recording a soundtrack so it can be enjoyed beyond the game.
 
-## Activity
+## ✍️ From My Blog
+
+[从用户到 Contributor：我与 AstrBot 的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
+
+[Suno AI 音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+
+## 📊 A Little More
 
 <details>
 <summary>Statistics &amp; languages</summary>
