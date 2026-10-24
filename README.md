@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I contribute to <a href="https://github.com/AstrBotDevs/AstrBot">AstrBot</a> and build tools for AI agents, bot ecosystems, and rhythm games.<br />
+  I contribute to open source and work on AI agent tools, rhythm-game knowledge bases, and retro game ports and localization.<br />
   With a background in music, I enjoy exploring where music, games, and technology intersect—and bringing ideas to life through AI-assisted development.
 </p>
 
@@ -14,6 +14,24 @@
     <img src="https://img.shields.io/badge/Blog-207723.xyz-FF5722?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
   </a>
 </p>
+
+## Open Source Contributions
+
+- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** — Ongoing contributions to the AI assistant framework and its ecosystem. [Contributions](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
+- **[NgpCraft](https://github.com/Tixul/Ngpcraft_emulator)** — Investigated netplay consistency and connection lifecycle issues. The maintainer adopted the synchronized-start idea proposed in my PR #26 and credited it in the [v3.9.1 release notes](https://github.com/Tixul/Ngpcraft_emulator/releases/tag/v3.9.1).
+
+## Selected Projects
+
+| Project | What I work on |
+| --- | --- |
+| **[CPyMO for NDS](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)** | Nintendo DS / DS Lite port of CPyMO, with a game conversion assistant, a public release, and real-hardware testing. |
+| **[NGP / NGPC Research & Localization](https://github.com/Blueteemo/ngp-localization)** | Practical research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* |
+| **[maimai Knowledge Skill](https://github.com/Blueteemo/maimai-knowledge-skill) · [Arcaea Knowledge Skill](https://github.com/Blueteemo/arcaea-knowledge-skill)** | maimai song and chart lookup tools, plus Arcaea mechanics and story retrieval, for use with AI agents. |
+
+## Selected Writing
+
+- [从用户到 Contributor：我与 AstrBot 的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
+- [Suno AI 音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
 
 ## Languages & Tools
 
@@ -24,6 +42,8 @@
   <img src="https://img.shields.io/badge/AstrBot-Contributor-7B2FF7?style=flat&logo=github" alt="AstrBot Contributor" />
 </p>
 
+<details>
+<summary>GitHub stats, trophies & activity</summary>
 
 ## Stats
 
@@ -35,7 +55,7 @@
   <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&theme=onedark&hide_border=true&hide_title=false" alt="Top Langs" />
 </div>
 
-## Trophies
+### Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -43,25 +63,14 @@
   </a>
 </p>
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
-
-- [从用户到Contributor：我与AstrBot的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi) 
-
-- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li) 
-
-- [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
-
-- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
-<!-- BLOG-POST-LIST:END -->
-
 ## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Blueteemo&theme=react-dark&hide_border=true" alt="Activity" />
 </p>
+
+
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Blueteemo&color=brightgreen" alt="visitors" />
