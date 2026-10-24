@@ -72,8 +72,8 @@ Mechanics and story retrieval for AI agents.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=00000000&text_color=9198a1&icon_color=b7a8df&title_color=b7a8df" />
-    <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=00000000&text_color=59636e&icon_color=625095&title_color=625095" alt="GitHub contribution statistics" width="480" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&v=20261025&bg_color=00000000&text_color=9198a1&icon_color=b7a8df&title_color=b7a8df" />
+    <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&v=20261025&bg_color=00000000&text_color=59636e&icon_color=625095&title_color=625095" alt="GitHub contribution statistics" width="480" />
   </picture>
 </p>
 
