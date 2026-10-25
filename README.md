@@ -102,7 +102,12 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src=".github/assets/trophy.svg" alt="GitHub profile trophies" width="840" />
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset=".github/assets/trophy-mobile-dark.svg" />
+      <source media="(max-width: 600px)" srcset=".github/assets/trophy-mobile-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/trophy.svg" />
+      <img src=".github/assets/trophy-light.svg" alt="GitHub profile trophies" width="770" />
+    </picture>
   </a>
 </p>
 
