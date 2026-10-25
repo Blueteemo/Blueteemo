@@ -78,8 +78,8 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&hide_border=true&bg_color=00000000&text_color=9198a1&title_color=b7a8df" />
-    <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&hide_border=true&bg_color=00000000&text_color=59636e&title_color=625095" alt="Languages across my repositories" width="360" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/languages-dark.svg" />
+    <img src=".github/assets/languages-light.svg" alt="Selected projects source-language distribution: Python 60.74%, C 39.26% (includes tests; excludes third-party and generated content)" width="360" />
   </picture>
 </p>
 
