@@ -12,6 +12,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
@@ -86,7 +88,7 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/languages-dark.svg" />
-    <img src=".github/assets/languages-light.svg" alt="Selected projects source-language distribution: Python 60.74%, C 39.26% (includes tests; excludes third-party and generated content)" width="360" />
+    <img src=".github/assets/languages-light.svg" alt="Selected projects source-language distribution (includes tests; excludes third-party and generated content)" width="360" />
   </picture>
 </p>
 
