@@ -12,6 +12,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
@@ -29,7 +31,7 @@ Exploring netplay consistency and connection lifecycle issues. The maintainer ad
 ## 🎮 Ports & Research
 
 **CPyMO for NDS**  
-Bringing CPyMO to Nintendo DS / DS Lite, with a game conversion assistant, a public release, and real-hardware testing. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)
+Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.2.0)
 
 **NGP / NGPC Research & Localization**  
 Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
@@ -60,8 +62,15 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 </p>
 
 <!-- BLOG-POST-LIST:START -->
-- [从用户到 Contributor：我与 AstrBot 的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi)
-- [Suno AI 音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li)
+- [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
+
+- [从用户到Contributor：我与AstrBot的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi) 
+
+- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li) 
+
+- [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
+
+- [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 A Little More
@@ -78,8 +87,8 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&hide_border=true&bg_color=00000000&text_color=9198a1&title_color=b7a8df" />
-    <img src="https://stats.programcx.cn/api/top-langs/?username=Blueteemo&layout=compact&hide_border=true&bg_color=00000000&text_color=59636e&title_color=625095" alt="Languages across my repositories" width="360" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/languages-dark.svg" />
+    <img src=".github/assets/languages-light.svg" alt="Selected projects source-language distribution (includes tests; excludes third-party and generated content)" width="360" />
   </picture>
 </p>
 
@@ -102,7 +111,12 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src=".github/assets/trophy.svg" alt="GitHub profile trophies" width="840" />
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset=".github/assets/trophy-mobile-dark.svg" />
+      <source media="(max-width: 600px)" srcset=".github/assets/trophy-mobile-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/trophy.svg" />
+      <img src=".github/assets/trophy-light.svg" alt="GitHub profile trophies" width="770" />
+    </picture>
   </a>
 </p>
 
