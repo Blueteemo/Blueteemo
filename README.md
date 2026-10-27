@@ -31,7 +31,7 @@ Exploring netplay consistency and connection lifecycle issues. The maintainer ad
 ## 🎮 Ports & Research
 
 **CPyMO for NDS**  
-Bringing CPyMO to Nintendo DS / DS Lite, with a game conversion assistant, a public release, and real-hardware testing. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.1.0)
+Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.2.0)
 
 **NGP / NGPC Research & Localization**  
 Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
