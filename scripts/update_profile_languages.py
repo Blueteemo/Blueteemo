@@ -6,6 +6,7 @@ This is NOT GitHub Linguist and does not measure authorship.
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -20,7 +21,8 @@ PROJECTS = {
     "ngp-localization": "main",
     "Blueteemo": "main",
 }
-NDS_BRANCH = "codex/nds-v1.2-integration"
+# Use a stable published release instead of a temporary development branch.
+NDS_REF = "nds-v1.2.0"
 OUT = Path(".github/assets")
 COLORS = {"Python": "#3572A5", "C": "#555555"}
 IGNORED_DIRS = {
@@ -61,7 +63,15 @@ def eligible(path, nds=False):
     return True
 
 def measure(repo, branch, nds=False):
-    data = api(f"repos/{OWNER}/{repo}/git/trees/{branch}?recursive=1")
+    try:
+        data = api(f"repos/{OWNER}/{repo}/git/trees/{branch}?recursive=1")
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            raise RuntimeError(
+                f"Language statistics source not found: {OWNER}/{repo}@{branch} "
+                "(HTTP 404). Check that the repository and branch/tag exist."
+            ) from exc
+        raise
     if data.get("truncated"):
         raise RuntimeError(f"Truncated Git tree: {repo}/{branch}")
     totals = {"Python": 0, "C": 0}
@@ -96,7 +106,7 @@ def svg(py, c, dark):
 
 def main():
     totals = {"Python": 0, "C": 0}
-    for repo, branch in [*PROJECTS.items(), ("CPyMO", NDS_BRANCH)]:
+    for repo, branch in [*PROJECTS.items(), ("CPyMO", NDS_REF)]:
         counts = measure(repo, branch, repo == "CPyMO")
         print(f"{repo}@{branch}: {counts}")
         for lang in totals:
