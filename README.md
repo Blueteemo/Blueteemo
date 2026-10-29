@@ -6,7 +6,8 @@
 
 <p align="center">
   With a background in music, I enjoy exploring where music, games, and technology meet—<br />
-  and bringing ideas to life through AI-assisted development.
+  and bringing ideas to life through AI-assisted development.<br />
+  🌐 <a href="https://blueteemo.dinghongji0504.chatgpt.site">Personal Website</a>
 </p>
 
 <p align="center">
