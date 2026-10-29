@@ -16,22 +16,13 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
       - name: Update blog posts without committing
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://blog.207723.xyz/rss.xml"
-          max_post_count: 5
-          readme_path: "./README.md"
-          comment_tag_name: "BLOG-POST-LIST"
-          template: "$newline- [$title]($url) $newline"
-          item_exec: "post.url = post.url.replace('http://localhost:8090', 'https://blog.207723.xyz');"
-          skip_commit: true
-          enable_keepalive: false
+        run: python scripts/update_blog_posts.py
 
       - name: Generate language cards
         env:
