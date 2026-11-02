@@ -37,6 +37,9 @@ Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback
 **NGP / NGPC Research & Localization**  
 Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
 
+**WAP Probe**  
+Exploring early mobile web protocols through read-only WML/WMLC tools, CLI and MCP interfaces, and controlled WSP/WDP experiments. · [Repository](https://github.com/Blueteemo/wap-probe)
+
 ## 🎵 Rhythm Games
 
 **maimai Knowledge Skill**  
