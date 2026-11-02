@@ -15,9 +15,9 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="48" height="48" />
 
 </p>
 
@@ -89,7 +89,7 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/languages-dark.svg" />
-    <img src=".github/assets/languages-light.svg" alt="Selected projects source-language distribution (includes tests; excludes third-party and generated content)" width="360" />
+    <img src=".github/assets/languages-light.svg" alt="Curated source-language distribution from public original projects and CPyMO NDS (not a measure of authorship)" width="360" />
   </picture>
 </p>
 
