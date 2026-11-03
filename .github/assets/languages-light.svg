@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="206" viewBox="0 0 360 206" role="img" aria-labelledby="title desc">
 <title id="title">Languages — Selected Projects</title>
-<desc id="desc">Curated public originals plus CPyMO NDS source bytes, including tests, excluding known third-party, generated and upstream patch files. Not GitHub Linguist or authorship. Python 69.37%, C 20.38%, JavaScript 6.97%, Swift 1.45%, Assembly 1.34%, Shell 0.50%.</desc>
+<desc id="desc">Curated public originals plus CPyMO NDS source bytes, including tests, excluding known third-party, generated and upstream patch files. Not GitHub Linguist or authorship. Python 69.42%, C 20.34%, JavaScript 6.95%, Swift 1.45%, Assembly 1.34%, Shell 0.50%.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
 <text x="12" y="26" font-size="16" font-weight="600" fill="#625095">Languages · Selected Projects</text>
 <text x="12" y="45" font-size="10.5" fill="#59636e">Source bytes · includes tests</text>
 <defs><clipPath id="bar"><rect x="12" y="60" width="336" height="10" rx="5"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="12.0000" y="60" width="233.0692" height="10" fill="#3572A5"/>
-<rect x="245.0692" y="60" width="68.4671" height="10" fill="#555555"/>
-<rect x="313.5363" y="60" width="23.4042" height="10" fill="#f1e05a"/>
-<rect x="336.9405" y="60" width="4.8839" height="10" fill="#f05138"/>
-<rect x="341.8244" y="60" width="4.4935" height="10" fill="#6e4c13"/>
-<rect x="346.3179" y="60" width="1.6821" height="10" fill="#89e051"/>
+<rect x="12.0000" y="60" width="233.2445" height="10" fill="#3572A5"/>
+<rect x="245.2445" y="60" width="68.3505" height="10" fill="#555555"/>
+<rect x="313.5950" y="60" width="23.3643" height="10" fill="#f1e05a"/>
+<rect x="336.9593" y="60" width="4.8756" height="10" fill="#f05138"/>
+<rect x="341.8349" y="60" width="4.4859" height="10" fill="#6e4c13"/>
+<rect x="346.3208" y="60" width="1.6792" height="10" fill="#89e051"/>
 </g>
 <circle cx="19" cy="98" r="5" fill="#3572A5"/>
 <text x="32" y="102" font-size="13" fill="#59636e">Python</text>
-<text x="166" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">69.37%</text>
+<text x="166" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">69.42%</text>
 <circle cx="201" cy="98" r="5" fill="#555555"/>
 <text x="214" y="102" font-size="13" fill="#59636e">C</text>
-<text x="348" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">20.38%</text>
+<text x="348" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">20.34%</text>
 <circle cx="19" cy="126" r="5" fill="#f1e05a"/>
 <text x="32" y="130" font-size="13" fill="#59636e">JavaScript</text>
-<text x="166" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">6.97%</text>
+<text x="166" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">6.95%</text>
 <circle cx="201" cy="126" r="5" fill="#f05138"/>
 <text x="214" y="130" font-size="13" fill="#59636e">Swift</text>
 <text x="348" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">1.45%</text>
