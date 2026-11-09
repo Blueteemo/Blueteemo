@@ -32,7 +32,7 @@ Contributing to the Neo Geo Pocket / Color emulator through Chinese localization
 ## 🎮 Ports & Research
 
 **CPyMO for NDS**  
-Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.2.0)
+Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.3.0)
 
 **NGP / NGPC Research & Localization**  
 Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
@@ -65,6 +65,9 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
   </a>
 </p>
 
+<details>
+<summary>Recent posts</summary>
+
 <!-- BLOG-POST-LIST:START -->
 - [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
 
@@ -77,26 +80,21 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 - [MarkText 汉化踩坑日志：当你以为改了 renderer.js 就够了](https://blog.207723.xyz/archives/marktext-han-hua-cai-keng-ri-zhi-dang-ni-yi-wei-gai-liao-renderer.js-jiu-gou-liao) 
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 A Little More
+</details>
 
-<details>
-<summary>Statistics &amp; languages</summary>
+## 📊 A Little More
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&hide_title=true&v=20261025&bg_color=00000000&text_color=9198a1&icon_color=b7a8df&title_color=b7a8df" />
-    <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&hide_title=true&v=20261025&bg_color=00000000&text_color=59636e&icon_color=625095&title_color=625095" alt="GitHub contribution statistics" width="480" />
+    <img src="https://stats.programcx.cn/api?username=Blueteemo&show_icons=true&hide_border=true&hide_title=true&v=20261025&bg_color=00000000&text_color=59636e&icon_color=625095&title_color=625095" alt="GitHub contribution statistics" width="375" align="middle" />
   </picture>
-</p>
 
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/languages-dark.svg" />
-    <img src=".github/assets/languages-light.svg" alt="Curated source-language distribution from public original projects and CPyMO NDS (not a measure of authorship)" width="360" />
+    <img src=".github/assets/languages-light.svg" alt="Curated source-language distribution from public original projects and CPyMO NDS (not a measure of authorship)" width="325" align="middle" />
   </picture>
 </p>
-
-</details>
 
 <details>
 <summary>Contribution graph</summary>
