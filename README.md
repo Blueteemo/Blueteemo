@@ -32,7 +32,7 @@ Contributing to the Neo Geo Pocket / Color emulator through Chinese localization
 ## 🎮 Ports & Research
 
 **CPyMO for NDS**  
-Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO/releases/tag/nds-v1.3.0)
+Bringing CPyMO to Nintendo DS with enhanced dual-screen gameplay, video playback, and Windows/macOS game converters—tested on real hardware. · [Download & guide](https://github.com/Blueteemo/CPyMO)
 
 **NGP / NGPC Research & Localization**  
 Sharing research methods, localization tools, and reproducible case studies from *Memories Off Pure* and *INFINITY cure.* · [Explore](https://github.com/Blueteemo/ngp-localization)
