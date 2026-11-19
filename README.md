@@ -26,7 +26,7 @@
 **AstrBot**  
 Contributing to the AI assistant framework and its ecosystem. · [Contributions](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ABlueteemo)
 
-**[NgpCraft Emulator](https://github.com/Tixul/Ngpcraft_emulator)**  
+**NgpCraft Emulator**  
 Contributing to the Neo Geo Pocket / Color emulator through Chinese localization, netplay improvements, hardware-accuracy fixes, and macOS integration. · [Contributions](https://github.com/Tixul/Ngpcraft_emulator/pulls?q=is%3Apr+author%3ABlueteemo)
 
 ## 🎮 Ports & Research
