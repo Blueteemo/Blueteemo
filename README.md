@@ -69,15 +69,15 @@ Sometimes that means a game port, sometimes a Chinese patch—and sometimes reco
 <summary>Recent posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [同一位画师，不同年代的画风](https://blog.207723.xyz/archives/habo-binji-art-over-time) 
+
+- [那些至今不过时的画风：聊聊视觉小说与动画](https://blog.207723.xyz/archives/timeless-visual-novel-art) 
+
 - [《秋之回忆》还有像素版？聊聊 Pure，以及这次 NGPC 汉化](https://blog.207723.xyz/archives/memories-off-pure-ngpc-chinese) 
 
 - [Windows 10 PowerShell 选不到 Consolas——conhost 的三层配置与 GBK 字体过滤](https://blog.207723.xyz/archives/windows-10-powershell-xuan-bu-dao-consolas----conhost-de-san-ceng-pei-zhi-yu-gbk-zi-ti-guo-lu) 
 
 - [从用户到Contributor：我与AstrBot的故事](https://blog.207723.xyz/archives/cong-yong-hu-dao-contributor-wo-yu-astrbotde-gu-shi) 
-
-- [Suno AI音乐生成初探：以午前二時の夢为例](https://blog.207723.xyz/archives/suno-aiyin-le-sheng-cheng-chu-tan-yi-wu-qian-er-shi-nomeng-wei-li) 
-
-- [打造个性化GitHub主页：README美化实战指南](https://blog.207723.xyz/archives/da-zao-ge-xing-hua-githubzhu-ye-readmemei-hua-shi-zhan-zhi-nan) 
 <!-- BLOG-POST-LIST:END -->
 
 </details>
