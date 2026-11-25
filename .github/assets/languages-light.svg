@@ -1,35 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="206" viewBox="0 0 360 206" role="img" aria-labelledby="title desc">
 <title id="title">Languages — Selected Projects</title>
-<desc id="desc">Curated public originals plus CPyMO NDS source bytes, including tests, excluding known third-party, generated and upstream patch files. Not GitHub Linguist or authorship. C 79.87%, Python 15.49%, C++ 2.03%, JavaScript 1.10%, Shell 1.06%, Swift 0.23%, Assembly 0.21%.</desc>
+<desc id="desc">Curated public originals plus CPyMO NDS source bytes, including tests, excluding known third-party, generated and upstream patch files. Not GitHub Linguist or authorship. C 80.01%, Python 15.24%, C++ 2.07%, Shell 1.16%, JavaScript 1.08%, Swift 0.23%, Assembly 0.21%.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
 <text x="12" y="26" font-size="16" font-weight="600" fill="#625095">Languages · Selected Projects</text>
 <text x="12" y="45" font-size="10.5" fill="#59636e">Source bytes · includes tests</text>
 <defs><clipPath id="bar"><rect x="12" y="60" width="336" height="10" rx="5"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="12.0000" y="60" width="268.3680" height="10" fill="#555555"/>
-<rect x="280.3680" y="60" width="52.0471" height="10" fill="#3572A5"/>
-<rect x="332.4151" y="60" width="6.8301" height="10" fill="#f34b7d"/>
-<rect x="339.2452" y="60" width="3.6996" height="10" fill="#f1e05a"/>
-<rect x="342.9448" y="60" width="3.5729" height="10" fill="#89e051"/>
-<rect x="346.5177" y="60" width="1.4823" height="10" fill="#8b949e"/>
+<rect x="12.0000" y="60" width="268.8474" height="10" fill="#555555"/>
+<rect x="280.8474" y="60" width="51.2066" height="10" fill="#3572A5"/>
+<rect x="332.0540" y="60" width="6.9655" height="10" fill="#f34b7d"/>
+<rect x="339.0195" y="60" width="3.8889" height="10" fill="#89e051"/>
+<rect x="342.9085" y="60" width="3.6351" height="10" fill="#f1e05a"/>
+<rect x="346.5435" y="60" width="1.4565" height="10" fill="#8b949e"/>
 </g>
 <circle cx="19" cy="98" r="5" fill="#555555"/>
 <text x="32" y="102" font-size="13" fill="#59636e">C</text>
-<text x="166" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">79.87%</text>
+<text x="166" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">80.01%</text>
 <circle cx="201" cy="98" r="5" fill="#3572A5"/>
 <text x="214" y="102" font-size="13" fill="#59636e">Python</text>
-<text x="348" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">15.49%</text>
+<text x="348" y="102" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">15.24%</text>
 <circle cx="19" cy="126" r="5" fill="#f34b7d"/>
 <text x="32" y="130" font-size="13" fill="#59636e">C++</text>
-<text x="166" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">2.03%</text>
-<circle cx="201" cy="126" r="5" fill="#f1e05a"/>
-<text x="214" y="130" font-size="13" fill="#59636e">JavaScript</text>
-<text x="348" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">1.10%</text>
-<circle cx="19" cy="154" r="5" fill="#89e051"/>
-<text x="32" y="158" font-size="13" fill="#59636e">Shell</text>
-<text x="166" y="158" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">1.06%</text>
+<text x="166" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">2.07%</text>
+<circle cx="201" cy="126" r="5" fill="#89e051"/>
+<text x="214" y="130" font-size="13" fill="#59636e">Shell</text>
+<text x="348" y="130" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">1.16%</text>
+<circle cx="19" cy="154" r="5" fill="#f1e05a"/>
+<text x="32" y="158" font-size="13" fill="#59636e">JavaScript</text>
+<text x="166" y="158" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">1.08%</text>
 <circle cx="201" cy="154" r="5" fill="#8b949e"/>
 <text x="214" y="158" font-size="13" fill="#59636e">Other</text>
-<text x="348" y="158" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">0.44%</text>
+<text x="348" y="158" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">0.43%</text>
 <text x="12" y="190" font-size="10.5" fill="#59636e">Excludes third-party &amp; generated code</text>
 </svg>
